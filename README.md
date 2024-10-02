@@ -23,7 +23,7 @@
 
 
 # Za Matcher 
-Za Matcher is the machine learning module powering ![OpenMeet](https://github.com/sl1mSha4dey/openMeet_Classe03)'s user recommendation system. <br />
+Za Matcher is the machine learning module powering [OpenMeet](https://github.com/sl1mSha4dey/openMeet_Classe03)'s  user recommendation system. <br />
 It is a machine learning model based on clustering and classification using **Agglomerative Clustering** and **SVC Classification** to recommend users. It has been built using `Jupyter Notebook` and `Python`. <br />
 If you want to know more about Za Matcher you can read the documentation in the `docs` folder. 
 
