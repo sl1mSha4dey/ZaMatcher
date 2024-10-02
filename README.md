@@ -1,10 +1,10 @@
 
 <p align="center">
-    <img width="200" src="https://user-images.githubusercontent.com/58223071/218078925-137865e1-d6fc-4d0c-9c87-51ddc97ac911.png" alt="OpenMeet logo">
+    <img width="200" src="https://github.com/user-attachments/assets/74cf367e-830a-42e1-9d9e-0b4e3e6a1a44" alt="Za Matcher logo">
 </p>
 
 <h3 align="center">
- ZaMatcher
+ Za Matcher
 </h3>
 
 <p align="center">
@@ -22,10 +22,10 @@
 <br>
 
 
-# ZaMatcher 
-ZaMatcher is the machine learning module powering ![OpenMeet](https://github.com/sl1mSha4dey/openMeet_Classe03)'s user recommendation system. <br />
+# Za Matcher 
+Za Matcher is the machine learning module powering ![OpenMeet](https://github.com/sl1mSha4dey/openMeet_Classe03)'s user recommendation system. <br />
 It is a machine learning model based on clustering and classification using **Agglomerative Clustering** and **SVC Classification** to recommend users. It has been built using `Jupyter Notebook` and `Python`. <br />
-If you want to know more about ZaMatcher you can read the documentation in the `docs` folder. 
+If you want to know more about Za Matcher you can read the documentation in the `docs` folder. 
 
 ## Table of Contents 
 - [Repository Contents](#repository-contents)
@@ -50,7 +50,7 @@ The repository is structured as follows:
 - `iOS_MobileApp`: contains the mobile app running on iOS used to deploy the model; 
 
 ## Installation Guide
-In order to install and use **ZaMatcher** on your environment you will need: 
+In order to install and use **Za Matcher** on your environment you will need: 
 - `Python 3.*` 
 - `Jupyter Notebook` or `Jupyter Lab` 
 
